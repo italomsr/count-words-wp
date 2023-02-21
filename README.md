@@ -4,6 +4,10 @@ Este plugin conta o número de palavras e caracteres de cada post e exibe na lis
 ##  O que o plugin faz?
 O plugin adiciona uma nova coluna chamada "Contador de Palavras" à listagem de posts dentro da área admin em "/wp-admin/edit.php". Para cada post, ele exibe o número de palavras e caracteres presentes no conteúdo do post.
 
+
+## Visualização dentro da listagem
+![words-count](https://user-images.githubusercontent.com/84940616/220391073-7cb24379-0b5b-45e5-8a0f-fa3f2ffaa86b.png)
+
 ## O código completo
 
 ```<?php
